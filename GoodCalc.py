@@ -15,10 +15,6 @@ class Calculator:
     def divide(self, value1, value2):
         return value1 / value2
 
-
-value1 = 0
-operation = 0
-value2 = 0
 value1 = float(input("Please enter your first number: "))
 value2 = float(input("Please enter your second number: "))
 
